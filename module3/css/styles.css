@@ -20,6 +20,7 @@ body{
 
 #collapsable-nav{
     background-color: rgb(251, 195, 232);
+    width: 100%;
 }
 
 .menu-item-wrapper{
