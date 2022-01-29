@@ -1,0 +1,44 @@
+
+
+body{
+    background-color:lightgrey;
+}
+
+#navbar{
+    border-bottom:3px solid;
+    background-color: whitesmoke;
+}
+
+#navbar-title{
+    margin-top: 5px;
+    font-size: 1.5em;
+}
+
+.page-header{
+    margin-top: 10px;
+}
+
+#collapsable-nav{
+    background-color: rgb(251, 195, 232);
+}
+
+.menu-item-wrapper{
+    background: rgb(66, 66, 66);
+    color: rgb(221, 221, 221);
+    border: 3px solid whitesmoke;
+    font-size: 1.2em;
+    padding: 2%;
+}
+
+#Beef-header, #Chicken-header, #Sushi-header{
+    font-size: 2em;
+}
+
+a{
+    font-size: 1.1em;
+}
+
+.collapsable-nav{
+    top:10px;
+}
+
