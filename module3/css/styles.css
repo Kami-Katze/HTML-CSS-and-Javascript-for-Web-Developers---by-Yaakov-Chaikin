@@ -21,6 +21,12 @@ body{
 #collapsable-nav{
     background-color: rgb(251, 195, 232);
     width: 100%;
+    text-align: center;
+}
+
+#nav-list{
+    text-align: center;
+    font-size: 1.1em;
 }
 
 .menu-item-wrapper{
